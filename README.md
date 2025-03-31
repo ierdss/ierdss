@@ -17,7 +17,8 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) <!-- ☁️ Deployment: -->
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) <!-- ☁️ Database -->
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 
 
 </div>
